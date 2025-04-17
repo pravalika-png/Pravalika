@@ -1,0 +1,17 @@
+
+Placement Prediction Report
+
+Name: Pravalika
+
+Objective:
+Predict whether a student will be placed based on academic data.
+
+Dataset:
+Includes gender, SSC%, HSC%, degree%, employability test score, and placement status.
+
+Model:
+Logistic Regression used for prediction.
+
+Conclusion:
+Model trained successfully with accuracy around XX% (fill this after running notebook).
+
